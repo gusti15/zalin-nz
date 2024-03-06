@@ -1,0 +1,30 @@
+{
+  "name": "zalin-nz",
+  "version": "1.0.0",
+  "description": "NPM pakcage to scan token holdings in a Binance Smart Chain (BSC) Wallet Address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusti15/zalin-nz.git"
+  },
+  "keywords": [
+    "bsc",
+    "tokenholdings",
+    "bnb",
+    "smart-chain"
+  ],
+  "author": "zalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusti15/zalin-nz/issues"
+  },
+  "homepage": "https://github.com/gusti15/zalin-nz#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "multicoin-address-validator": "^0.5.16"
+  }
+}
